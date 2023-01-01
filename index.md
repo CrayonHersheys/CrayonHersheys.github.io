@@ -1,1 +1,2 @@
 # test
+theme: THEME-NAME
